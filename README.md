@@ -1,14 +1,29 @@
 # Meu Portfólio
 
-Bem-vindo ao meu portfólio! Aqui você encontrará informações sobre mim e meus projetos.
+Bem-vindo ao meu portfólio! Aqui você encontra informações sobre meus projetos, habilidades e contato.
 
 ## Sobre Mim
-Sou iniciante em tecnologia, mas estou aprendendo e criando meu portfólio para mostrar meu progresso.
+
+Olá! Meu nome é Gabriel e sou apaixonado por tecnologia. Estou atualmente estudando e desenvolvendo projetos Nos Cursos da [Alura](https://www.alura.com.br/)
+
+## Habilidades
+
+- HTML, CSS e JavaScript
+- Python
+- Git e GitHub
+- [Outra habilidade]
 
 ## Projetos
-- **Projeto 1**: [Descrição breve]()
-- **Projeto 2**: [Descrição breve](#)
+
+ -[Projeto 1](https://github.com/seu-usuario/projeto1): Descrição breve do projeto.
+- [Projeto 2](https://github.com/seu-usuario/projeto2): Descrição breve do projeto.
+- [Projeto 3](https://github.com/seu-usuario/projeto3): Descrição breve do projeto.
 
 ## Contato
+
+Você pode entrar em contato comigo através 
+
 - **Email**: *************
-- **LinkedIn**: [ainda Não tenho]
+- **Discord**: **gabrielgbx**
+- **LinkedIn**: **ainda Não tenho**
+
