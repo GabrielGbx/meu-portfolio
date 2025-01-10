@@ -15,7 +15,7 @@ Olá! Meu nome é Gabriel e sou apaixonado por tecnologia. Estou atualmente estu
 
 ## Projetos
 
- -[Projeto 1](https://github.com/seu-usuario/projeto1): Descrição breve do projeto.
+- [Projeto 1](https://github.com/seu-usuario/projeto1): Descrição breve do projeto.
 - [Projeto 2](https://github.com/seu-usuario/projeto2): Descrição breve do projeto.
 - [Projeto 3](https://github.com/seu-usuario/projeto3): Descrição breve do projeto.
 
