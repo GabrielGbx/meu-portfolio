@@ -1,6 +1,6 @@
 # Meu Portfólio
 
-Bem-vindo ao meu portfólio! Aqui você encontra informações sobre meus projetos, habilidades e contato.
+Olá, Bem-vindo ao meu portfólio! Aqui você encontra informações sobre meus projetos, habilidades e contato.
 
 ## Sobre Mim
 
